@@ -1,0 +1,4 @@
+username: jmoros
+password: jp28uPz9
+
+connect to: genuse23.lyle.smu.edu
